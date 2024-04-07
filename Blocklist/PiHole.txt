@@ -1,0 +1,9 @@
+# [Whatsapp.txt]
+0.0.0.0 crashlogs.whatsapp.net
+
+# [Quizduell.txt]
+0.0.0.0 rt.applovin.com
+0.0.0.0 d.applvn.com
+0.0.0.0 a.applvn.com
+0.0.0.0 applvn.com
+
