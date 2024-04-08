@@ -13,10 +13,10 @@ Raspberry Pi Zero based on Pi-hole.
 3. Configure FritzBox to use Pi-hole: https://docs.pi-hole.net/routers/fritzbox-de/
 4. Integration into openHAB -> https://360friends.de/pi-hole-integration-in-openhab/
 5. Update blocking lists
-   1. ...
-   2. ...
+   1. Add (default list) https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
+   2. Add https://raw.githubusercontent.com/lochmueller/blocking-pi/main/Blocklist/PiHole.txt
 
-## Block list generatione
+## Block list generation
 
 1. Create files for different apps incl. Domains in the "Apps" folder
 2. Execute "php generate.php" before commit
